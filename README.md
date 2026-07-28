@@ -1,1 +1,2 @@
 # BIKE-BLAST
+Here is the BIKE BLAST website made by using HTML,CSS & JS.Bike Blast started with a simple idea: getting around the city shouldn't mean owning a vehicle, sitting in traffic, or paying high fuel costs. We built a rental network of electric scooties and bikes so anyone can grab a ride whenever they need one.For buying the bike or scooty we are offering for affordable prices.Here is the website .Please go through the website.
